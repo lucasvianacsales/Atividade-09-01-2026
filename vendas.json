@@ -1,0 +1,142 @@
+[
+  {
+    "vendedor": "Ana",
+    "produto": "notebook",
+    "valor": 2500.00,
+    "meta_atingida": true,
+    "quantidade": 1
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "mouse",
+    "valor": 89.90,
+    "meta_atingida": false,
+    "quantidade": 2
+  },
+  {
+    "vendedor": "Beatriz",
+    "produto": "teclado",
+    "valor": 150.00,
+    "meta_atingida": true,
+    "quantidade": 3
+  },
+  {
+    "vendedor": "Ana",
+    "produto": "monitor",
+    "valor": 850.00,
+    "meta_atingida": true,
+    "quantidade": 1
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "mousepad",
+    "valor": 45.50,
+    "meta_atingida": false,
+    "quantidade": 4
+  },
+  {
+    "vendedor": "Beatriz",
+    "produto": "headset",
+    "valor": 220.00,
+    "meta_atingida": true,
+    "quantidade": 2
+  },
+  {
+    "vendedor": "Ana",
+    "produto": "notebook",
+    "valor": 2800.00,
+    "meta_atingida": true,
+    "quantidade": 1
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "webcam",
+    "valor": 120.00,
+    "meta_atingida": true,
+    "quantidade": 3
+  },
+  {
+    "vendedor": "Beatriz",
+    "produto": "pendrive",
+    "valor": 65.00,
+    "meta_atingida": false,
+    "quantidade": 5
+  },
+  {
+    "vendedor": "Ana",
+    "produto": "tablet",
+    "valor": 1200.00,
+    "meta_atingida": true,
+    "quantidade": 2
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "mouse",
+    "valor": 95.00,
+    "meta_atingida": true,
+    "quantidade": 3
+  },
+  {
+    "vendedor": "Beatriz",
+    "produto": "monitor",
+    "valor": 920.00,
+    "meta_atingida": true,
+    "quantidade": 1
+  },
+  {
+    "vendedor": "Ana",
+    "produto": "impressora",
+    "valor": 450.00,
+    "meta_atingida": true,
+    "quantidade": 2
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "teclado",
+    "valor": 135.00,
+    "meta_atingida": false,
+    "quantidade": 2
+  },
+  {
+    "vendedor": "Beatriz",
+    "produto": "headset",
+    "valor": 180.00,
+    "meta_atingida": true,
+    "quantidade": 3
+  },
+  {
+    "vendedor": "Ana",
+    "produto": "smartphone",
+    "valor": 2100.00,
+    "meta_atingida": true,
+    "quantidade": 1
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "cabo HDMI",
+    "valor": 35.00,
+    "meta_atingida": false,
+    "quantidade": 5
+  },
+  {
+    "vendedor": "Beatriz",
+    "produto": "notebook",
+    "valor": 3200.00,
+    "meta_atingida": false,
+    "quantidade": 1
+  },
+  {
+    "vendedor": "Ana",
+    "produto": "smartwatch",
+    "valor": 890.00,
+    "meta_atingida": true,
+    "quantidade": 2
+  },
+  {
+    "vendedor": "Carlos",
+    "produto": "fone de ouvido",
+    "valor": 75.00,
+    "meta_atingida": true,
+    "quantidade": 4
+  }
+]
